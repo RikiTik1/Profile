@@ -14,4 +14,4 @@
 
 ## Фото 
 
-[i](image.png)
+![photo](Alex\Downloads\1111.jpg)
